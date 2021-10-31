@@ -25,3 +25,4 @@ Dessa maneira, cada ponta da estrela é composta por dois triângulos, e a posi�
 
 A possibilidade de alterar manualmente a escala das figuras desenhadas e a opção de gerar figuras de cores sólidas também foram adicionadas. A janela pode ser limpa tanto ao pressionar o botão "Clear Window", quanto ao pressionar a tecla space.
 
+Nome: Tamiris Gabriele da Silva Lira RA: 11023914

@@ -26,3 +26,6 @@ A mudança mais significativa no código a partir de regularpolygons ocorre nas 
 Dessa maneira, cada ponta da estrela é composta por dois triângulos, e a posição dos vértices é definida a partir do ângulo obtido considerando o número de pontas da estrela. Assim, caso estejamos desenhando o "lado ímpar" da ponta da estrela, seus vértices serão definidos pelo cosseno e seno desse ângulo. No caso do "lado par", consideramos metade desse valor. 
 
 A possibilidade de alterar manualmente a escala das figuras desenhadas e a opção de gerar figuras de cores sólidas também foram adicionadas. A janela pode ser limpa tanto ao pressionar o botão "Clear Window", quanto ao pressionar a tecla space.
+
+Nome: Tamiris Gabriele da Silva Lira
+RA: 11023914

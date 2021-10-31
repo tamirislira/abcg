@@ -14,6 +14,10 @@ void OpenGLWindow::handleEvent(SDL_Event &event) {
       abcg::glClearColor(0, 0, 0, 1);
       abcg::glClear(GL_COLOR_BUFFER_BIT);
     }
+    if (event.key.keysym.sym == SDLK_UP)
+      r = std::min(10, r+1);
+    if (event.key.keysym.sym == SDLK_DOWN)
+      r = std::max(1, r-1);;
   }
 }
 

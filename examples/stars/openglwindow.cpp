@@ -171,18 +171,15 @@ void OpenGLWindow::setupModel(int sides) {
 
   // Star vertices
 
-  int sidesDrawn = 1;
-
-
    for (int i = 1; i <= sides*2; i++) {
         float angle = i * 360.0f/(sides) * M_PI/180.0f;
-        if(sidesDrawn %2 == 0)
+        if(i%2 == 0)
           positions.emplace_back(std::cos(angle)/2.0, std::sin(angle)/2.0);
         else
           positions.emplace_back(std::cos(angle), std::sin(angle));
          
         colors.push_back(color2);
-        sidesDrawn++;
+
    }
 
   // Generate VBO of positions

@@ -1,0 +1,80 @@
+newmtl Objeto Inteligente de Vetor Material de inflação da frente
+Ka 0.117647 0.117647 0.117647
+Kd 0.044404 0.196078 0.009232
+Ks 0.223686 0.223686 0.223686
+adobe_interior_color 0.385290 0.690196 0.278782
+Ns 143.012741
+d 1.000000
+Tr 0.000000
+Pr 0.080000
+Pm 0.550000
+adobe_density 0.000000
+adobe_translucence 0.000000
+adobe_glow 0.060000
+map_Bump Cork-4-Bump1_3.psd 
+disp Cork-4-Bump1_3.psd 
+
+newmtl Objeto Inteligente de Vetor Material de chanfro da frente
+Ka 0.117647 0.117647 0.117647
+Kd 0.044404 0.196078 0.009232
+Ks 0.223686 0.223686 0.223686
+adobe_interior_color 0.385290 0.690196 0.278782
+Ns 143.012741
+d 1.000000
+Tr 0.000000
+Pr 0.080000
+Pm 0.550000
+adobe_density 0.000000
+adobe_translucence 0.000000
+adobe_glow 0.060000
+map_Bump Cork-4-Bump1.psd 
+disp Cork-4-Bump1.psd 
+
+newmtl Objeto Inteligente de Vetor Material de extrusão
+Ka 0.117647 0.117647 0.117647
+Kd 0.044404 0.196078 0.009232
+Ks 0.223686 0.223686 0.223686
+adobe_interior_color 0.385290 0.690196 0.278782
+Ns 143.012741
+d 1.000000
+Tr 0.000000
+Pr 0.080000
+Pm 0.550000
+adobe_density 0.000000
+adobe_translucence 0.000000
+adobe_glow 0.060000
+map_Bump Cork-4-Bump1.psd 
+disp Cork-4-Bump1.psd 
+
+newmtl Objeto Inteligente de Vetor Material de chanfro do verso
+Ka 0.117647 0.117647 0.117647
+Kd 0.044404 0.196078 0.009232
+Ks 0.223686 0.223686 0.223686
+adobe_interior_color 0.385290 0.690196 0.278782
+Ns 143.012741
+d 1.000000
+Tr 0.000000
+Pr 0.080000
+Pm 0.550000
+adobe_density 0.000000
+adobe_translucence 0.000000
+adobe_glow 0.060000
+map_Bump Cork-4-Bump1.psd 
+disp Cork-4-Bump1.psd 
+
+newmtl Objeto Inteligente de Vetor Material de inflação do verso
+Ka 0.117647 0.117647 0.117647
+Kd 0.044404 0.196078 0.009232
+Ks 0.223686 0.223686 0.223686
+adobe_interior_color 0.385290 0.690196 0.278782
+Ns 143.012741
+d 1.000000
+Tr 0.000000
+Pr 0.440000
+Pm 0.550000
+adobe_density 0.000000
+adobe_translucence 0.000000
+adobe_glow 0.060000
+map_Bump Cork-4-Bump1.psd 
+disp Cork-4-Bump1.psd 
+
